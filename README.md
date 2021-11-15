@@ -1,4 +1,4 @@
-﻿##  Перевод серии модов [Vanilla Ideology Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2654846754)
+﻿##  Перевод серии модов [Vanilla Factions Expanded - Ancients](https://steamcommunity.com/sharedfiles/filedetails/?id=2654846754)
  
  ### Прогресс 0 из 59 файлов
  
