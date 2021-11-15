@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperLearning.label>super learning</SuperLearning.label>
+  <SuperLearning.description>The subject’s brain has become hyper elastic, allowing them to rapidly learn new skills with almost no effort.</SuperLearning.description>
+
+  <ToxicResistance.label>toxic resistance</ToxicResistance.label>
+  <ToxicResistance.description>The subject has become a bastion against chemical effects. Any toxins that are absorbed are immediately processed by their liver, rendering them harmless and thus full immunity to toxic effects.</ToxicResistance.description>
+
+  <PsychicResistance.label>psychic resistance</PsychicResistance.label>
+  <PsychicResistance.description>The subject has become a fortress against psychic attacks. Any psychic effects are blocked due to organic webbing that surrounds and isolates their brain.</PsychicResistance.description>
+
+  <Regeneration.label>regeneration</Regeneration.label>
+  <Regeneration.description>The cellular regeneration rate in this subject has been greatly improved, allowing them to heal from almost any trauma as long as the limbs are still present.</Regeneration.description>
+
+  <SuperSpeed.label>super speed</SuperSpeed.label>
+  <SuperSpeed.description>The muscles and reaction speed in this subject has been improved, allowing them to move 50% faster and be able to use this increase in speed without crashing into things.</SuperSpeed.description>
+
+  <GeniusIntellect.label>genius intellect</GeniusIntellect.label>
+  <GeniusIntellect.description>The subject’s mental processing speed has been vastly improved, resulting in excellent deductive and analytical abilities. This allows them to research new or existing ideas at triple the speed compared to before.</GeniusIntellect.description>
+
+  <WeaponExpert.label>weapons expert</WeaponExpert.label>
+  <WeaponExpert.description>The reaction speed in this subject has been improved alongside their hand-eye coordination, halving their weapon warmup and cooldown.</WeaponExpert.description>
+
+
+</LanguageData>

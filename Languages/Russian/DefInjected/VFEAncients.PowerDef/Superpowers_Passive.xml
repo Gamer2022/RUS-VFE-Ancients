@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EagleEye.label>eagle eye</EagleEye.label>
+  <EagleEye.description>The depth perception in this subject has been remarkably improved alongside their reaction speed, allowing them to rapidly adjust the firing arc to hit targets twice as far away than otherwise possible.</EagleEye.description>
+
+  <Marksmanship.label>marksmanship</Marksmanship.label>
+  <Marksmanship.description>The depth perception in this subject has been remarkably improved alongside their visual acuity, giving them perfect, pinpoint accuracy with ranged weapons.</Marksmanship.description>
+
+  <Assassin.label>assassin</Assassin.label>
+  <Assassin.description>The subject has become capable of landing very precise hits even in frantic melee, knowing exactly where to swing in order to target the brain or the heart.</Assassin.description>
+
+  <SuperStrength.label>super strength</SuperStrength.label>
+  <SuperStrength.description>The muscles in this subject have been enhanced with spindles of dense fibre, greatly improving their power-to-mass ratio and making them almost twice as strong as before. This doubles their melee damage and both local and caravan inventory capacity.</SuperStrength.description>
+
+  <MartialArtist.label>martial artist</MartialArtist.label>
+  <MartialArtist.description>The reaction speed in this subject has been greatly improved alongside their hand-eye coordination, allowing them to always land hits and never be hit in melee engagements.</MartialArtist.description>
+
+  <BulletproofSkin.label>bulletproof skin</BulletproofSkin.label>
+  <BulletproofSkin.description>The skin and muscle fibre in this subject have become incredibly dense, preventing them from suffering any cuts. It does nothing to prevent bruising or their bones from breaking.</BulletproofSkin.description>
+
+  <PlasteelSkeleton.label>plasteel skeleton</PlasteelSkeleton.label>
+  <PlasteelSkeleton.description>The subject’s skeletal structure has been slowly but entirely replaced with Plasteel, with no flaws to be found anywhere. Their bones can be neither cracked nor broken.</PlasteelSkeleton.description>
+
+  <SelfResurrection.label>self resurrection</SelfResurrection.label>
+  <SelfResurrection.description>The subject is practically a zombie, as when their bodily and mental functions cease their body enters suspended animation. Over the course of 3 days, their body will recover from any grave wounds and forcibly resurrect, with the majority of their wounds remaining.</SelfResurrection.description>
+
+  <RedundantStomach.label>redundant stomach</RedundantStomach.label>
+  <RedundantStomach.description>The subject’s body has become so adept at extracting energy from the environment that they no longer need to eat. Such energy sources could be toxins, EMI fields, sunlight, static charges or radiation.</RedundantStomach.description>
+
+  <Darkvision.label>darkvision</Darkvision.label>
+  <Darkvision.description>The subject develops reflective membranes in the back of their eyes that are also very slightly bioluminescent, and their pupils are converted into vertical slits. This means they can see even in pitch dark as if it was broad daylight.</Darkvision.description>
+
+  <RegeneratingLimbs.label>regenerating limbs</RegeneratingLimbs.label>
+  <RegeneratingLimbs.description>The subject’s body has developed a mutated fungal colony that can replicate missing organs or limbs by “remembering” what the body is missing.</RegeneratingLimbs.description>
+
+  <EfficientBuilder.label>efficient builder</EfficientBuilder.label>
+  <EfficientBuilder.description>The subject has developed an unusual ability for sensing and predicting stresses in structures, allowing them to save a quarter of the resources half of the time without risking structural integrity.</EfficientBuilder.description>
+
+  <MasterfulCraft.label>masterful craft</MasterfulCraft.label>
+  <MasterfulCraft.description>The subject’s tactile sensitivity and hand-eye-coordination has skyrocketed, giving them superb handicraft skills and consistently being able to put out items 2 grades higher than similar workers.</MasterfulCraft.description>
+
+  <ColdResistance.label>cold resistance</ColdResistance.label>
+  <ColdResistance.description>The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the cold. They function by overstimulating the body’s muscles to generate heat, a feeling similar to twitching almost non-stop that they learn to ignore even if it happens during sleep.</ColdResistance.description>
+
+  <HeatResistance.label>heat resistance</HeatResistance.label>
+  <HeatResistance.description>The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the heat. They function by overstimulating the body’s sweat glands and as such they will never suffer from heatstroke, they cannot be set on fire and ignore the disgust of being Sweaty.</HeatResistance.description>
+
+  <Celebrity.label>celebrity</Celebrity.label>
+  <Celebrity.description>The subject’s social awareness and general likeability has become almost legendary. They always know the right thing to say and no one can get over just how gosh darned likeable they are.</Celebrity.description>
+
+  <MasterHacker.label>master hacker</MasterHacker.label>
+  <MasterHacker.description>The subject has developed an unusual mental alacrity when it comes to resolving computer code. When forced to explain, they can only respond “it just works”. This allows the subject to conduct all the hacking operations instantaneously.</MasterHacker.description>
+
+  <Loner.label>loner</Loner.label>
+  <Loner.description>The subject is capable of attaining a form of meditative Zen when they are by themselves, able to replenish Recreation if in solitude.</Loner.description>
+
+  <BlastResistance.label>blast resistance</BlastResistance.label>
+  <BlastResistance.description>The subject’s skin has changed to be non-Newtonian, hardening when exposed to extremely high impact velocities such as grenade shrapnel.</BlastResistance.description>
+
+  <PromisingCandidate.label>promising candidate</PromisingCandidate.label>
+  <PromisingCandidate.description>For a lack of better term, the subject’s genes have been perfected for genetic alterations. They are completely malleable and can be improved without issue or risk of the critical experiment failure.</PromisingCandidate.description>
+
+
+</LanguageData>

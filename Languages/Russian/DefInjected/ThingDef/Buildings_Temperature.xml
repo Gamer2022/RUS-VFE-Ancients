@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientHeater.label>ancient heater</VFEA_AncientHeater.label>
+  <VFEA_AncientHeater.description>A very old but efficient heater.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientHeater.description>
+
+  <VFEA_AncientCooler.label>ancient cooler</VFEA_AncientCooler.label>
+  <VFEA_AncientCooler.description>An ancient air-cooling machine. Cool air comes out one side, while the hot air gets funneled through a series of pipes deep into the ground. Can be used to cool down rooms during summer, or to create a walk-in freezer.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientCooler.description>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prideful.label>prideful</Prideful.label>
+  <Prideful.description>The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take rejection well, sometimes violently so. Being rejected can cause a murderer mental state against the love interest.</Prideful.description>
+
+  <Bloodlust.label>bloodlust</Bloodlust.label>
+  <Bloodlust.description>The subject’s hormone glands have become hypersensitive, and causing the death of someone causes a massive spike in dopamine and feels incredibly pleasurable, effectively becoming an addict to murder. This in turn can lead to one kill becoming a long chain of berserk rage-induced slaughter.</Bloodlust.description>
+
+  <Paranoid.label>paranoid</Paranoid.label>
+  <Paranoid.description>The subject has developed a massive case of homesickness, and only ever feels safe whenever they’re inside what they consider home.</Paranoid.description>
+
+  <Audacious.label>audacious</Audacious.label>
+  <Audacious.description>The subject has developed a complete disregard for any authority except their own and will only do whatever they want to.</Audacious.description>
+
+  <Callous.label>callous</Callous.label>
+  <Callous.description>The subject has become callous and disregards the sanctity of life, butchering former colleagues or even friendly banter. As long as they have somewhere to sit, they don’t care.</Callous.description>
+
+  <Immature.label>immature</Immature.label>
+  <Immature.description>The subject has lost several methods of expressing their emotions, only able to get their point across by throwing tantrums.</Immature.description>
+
+  <EasilyBored.label>easily bored</EasilyBored.label>
+  <EasilyBored.description>The subject’s cognitive functions have become over developed and require twice the rate of recreational stimulation to delay mind-numbing boredom.</EasilyBored.description>
+
+  <EasilyEnraged.label>easily enraged</EasilyEnraged.label>
+  <EasilyEnraged.description>The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take criticism well, causing them to fall into a psychotic rage every time they are slighted.</EasilyEnraged.description>
+
+  <Sickly.label>sickly</Sickly.label>
+  <Sickly.description>The subject’s immune response has been ruined, requiring frequent trips to the doctor as they constantly gain new illnesses just as they’ve recovered from the previous one.</Sickly.description>
+
+  <Zealot.label>zealot</Zealot.label>
+  <Zealot.description>The subject has developed an intense state of zealotry, that all who are against the will of the colony do not deserve to live.</Zealot.description>
+
+  <Lustful.label>lustful</Lustful.label>
+  <Lustful.description>The subject’s hormone production has gone into overdrive, causing them to constantly make revolting remarks or gestures and generating bad blood between them and their colleagues.</Lustful.description>
+
+  <Hallucinations.label>hallucinations</Hallucinations.label>
+  <Hallucinations.description>The subject regularly suffers from auditory and optical hallucinations, completely convinced they are seeing something that isn’t there. Sometimes they try to make them go away by firing their weapons at them.</Hallucinations.description>
+
+
+</LanguageData>

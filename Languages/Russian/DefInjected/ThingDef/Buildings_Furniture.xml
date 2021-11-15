@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientBed.label>ancient bed</VFEA_AncientBed.label>
+  <VFEA_AncientBed.description>An old-fashioned metal bed frame with a hard mattress and uncomfortable duvet.</VFEA_AncientBed.description>
+
+  <VFEA_WallLamp.label>wall lamp</VFEA_WallLamp.label>
+  <VFEA_WallLamp.description>An electrical wall lamp, ideal to light up corridors in a vault.</VFEA_WallLamp.description>
+
+  <VFEA_WallLamp_Red.label>wall lamp (red)</VFEA_WallLamp_Red.label>
+  <VFEA_WallLamp_Red.description>An electrical red wall lamp, ideal to light up corridors in a vault.</VFEA_WallLamp_Red.description>
+
+  <VFEA_WallLamp_Green.label>wall lamp (green)</VFEA_WallLamp_Green.label>
+  <VFEA_WallLamp_Green.description>An electrical green wall lamp, ideal to light up corridors in a vault.</VFEA_WallLamp_Green.description>
+
+  <VFEA_WallLamp_Blue.label>wall lamp (blue)</VFEA_WallLamp_Blue.label>
+  <VFEA_WallLamp_Blue.description>An electrical blue wall lamp, ideal to light up corridors in a vault.</VFEA_WallLamp_Blue.description>
+
+  <VFEA_AncientCryptosleepSuspender.label>ancient cryptosleep suspender</VFEA_AncientCryptosleepSuspender.label>
+  <VFEA_AncientCryptosleepSuspender.description>An ancient medical pod that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientCryptosleepSuspender.description>
+
+
+</LanguageData>

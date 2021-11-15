@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_MendWeapon.label>mend weapon</VFEA_MendWeapon.label>
+  <VFEA_MendWeapon.description>todo</VFEA_MendWeapon.description>
+  <VFEA_MendWeapon.jobString>Mending weapon.</VFEA_MendWeapon.jobString>
+
+  <VFEA_MendApparel.label>mend apparel</VFEA_MendApparel.label>
+  <VFEA_MendApparel.description>todo</VFEA_MendApparel.description>
+  <VFEA_MendApparel.jobString>Mending apparel.</VFEA_MendApparel.jobString>
+
+  <VFEA_MendArmor.label>mend armor</VFEA_MendArmor.label>
+  <VFEA_MendArmor.description>todo</VFEA_MendArmor.description>
+  <VFEA_MendArmor.jobString>Mending armor.</VFEA_MendArmor.jobString>
+
+
+</LanguageData>

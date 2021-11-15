@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_LootedVault.label>looted vault</VFEA_LootedVault.label>
+  <VFEA_LootedVault.description>A recently-discovered looted vault.</VFEA_LootedVault.description>
+
+  <VFEA_SealedVault.label>sealed vault</VFEA_SealedVault.label>
+  <VFEA_SealedVault.description>A recently-discovered sealed vault.</VFEA_SealedVault.description>
+
+
+</LanguageData>

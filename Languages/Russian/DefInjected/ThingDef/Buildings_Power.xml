@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientSolarGenerator.label>ancient solar generator</VFEA_AncientSolarGenerator.label>
+  <VFEA_AncientSolarGenerator.description>This generator gathers power from solar flares. They are often used in the vaults to support the internal generators in the rare occurrences of solar storms.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientSolarGenerator.description>
+
+  <VFEA_AncientChemfuelPoweredGenerator.label>ancient chemfuel powered generator</VFEA_AncientChemfuelPoweredGenerator.label>
+  <VFEA_AncientChemfuelPoweredGenerator.description>Produces a reliable stream of power by consuming chemfuel. Must be periodically refueled by hand.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientChemfuelPoweredGenerator.description>
+
+  <VFEA_AncientGeothermalPlant.label>ancient geothermal plant</VFEA_AncientGeothermalPlant.label>
+  <VFEA_AncientGeothermalPlant.description>Produces electricity from geothermal steam geysers. Often used in deep mountain vaults to provide the whole structure with power. It’s also capable of regulating the temperature inside the room, and can act as a heater or a freezer. Must be placed on a steam geyser.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientGeothermalPlant.description>
+
+  <VFEA_AncientBattery.label>ancient battery</VFEA_AncientBattery.label>
+  <VFEA_AncientBattery.description>An old, large battery commonly found in vaults, capable of sustaining the entire compound for a nearly infinite amount of time.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientBattery.description>
+
+  <VFEA_AncientBioBatteryTank.label>ancient bio-battery tank</VFEA_AncientBioBatteryTank.label>
+  <VFEA_AncientBioBatteryTank.description>Produces a reliable stream of power by consuming biological material such as human or animal corpses. Must be periodically refueled with corpses.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientBioBatteryTank.description>
+
+
+</LanguageData>

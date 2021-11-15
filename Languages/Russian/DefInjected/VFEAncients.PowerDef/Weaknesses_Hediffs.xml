@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Blind.label>blind</Blind.label>
+  <Blind.description>The center in the subject’s brain that is responsible for processing optical data has been stunted, causing them to be fully blind despite having functional eyesight.</Blind.description>
+
+  <Deaf.label>deaf</Deaf.label>
+  <Deaf.description>The center in the subject’s brain that is responsible for processing auditory data has been stunted, causing them to be fully deaf despite having functional inner ear canals.</Deaf.description>
+
+  <Mute.label>mute</Mute.label>
+  <Mute.description>The subject has developed a mental block and can no longer create sounds with their mouth or vocal chords, eliminating all forms of speech.</Mute.description>
+
+  <PsychologicalParalysis.label>psychological paralysis</PsychologicalParalysis.label>
+  <PsychologicalParalysis.description>The center of the subject’s brain responsible for motor control in the legs has become stunted, effectively rendering them a paraplegic.</PsychologicalParalysis.description>
+
+  <PainHypersensitivity.label>pain hypersensitivity</PainHypersensitivity.label>
+  <PainHypersensitivity.description>The center in the subject’s brain that is responsible for pain sensation has been overdeveloped, causing even a papercut to feel like their finger is being chewed on by a wild animal.</PainHypersensitivity.description>
+
+
+</LanguageData>

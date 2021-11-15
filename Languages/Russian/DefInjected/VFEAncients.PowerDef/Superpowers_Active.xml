@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperJump.label>super jump</SuperJump.label>
+  <SuperJump.description>The muscles in this subject’s legs have been enhanced with spindles of dense fibre and their skeleton is more resistant to impact. This allows them to leap dozens of meters and land without injury.</SuperJump.description>
+
+  <Telepathy.label>telepathy</Telepathy.label>
+  <Telepathy.description>The subject is capable of mentally overwhelming a target’s mind.</Telepathy.description>
+
+  <PsychicShock.label>psychic shock</PsychicShock.label>
+  <PsychicShock.description>The subject is capable of shocking a target’s mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock.</PsychicShock.description>
+
+  <Invisibility.label>invisibility</Invisibility.label>
+  <Invisibility.description>The subject is capable of generating a psychic field around their body that prevents others from seeing them or even acknowledging their existence for a brief time.</Invisibility.description>
+
+  <SelfControl.label>self-control</SelfControl.label>
+  <SelfControl.description>The subject has achieved a mastery of self control, capable of actively deciding on stopping any mental breaks by psychically forcing themself to relive a cherished memory that snaps them back to reality. Afterwards, they will need 2 days to settle on a different memory.</SelfControl.description>
+
+  <Overshield.label>overshield</Overshield.label>
+  <Overshield.description>The subject is capable of projecting a localised, unidirectional skipshield for 30 seconds, sending all incoming ground-level projectiles far away. The process is extremely draining for the user and will take 3 minutes before being able to project again.</Overshield.description>
+
+  <SummonLightning.label>summon lightning</SummonLightning.label>
+  <SummonLightning.description>The subject is capable of generating differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The psychically-connected organ is located at the base of the skull and can only be used once every 2 minutes.</SummonLightning.description>
+
+  <AnimalSpeech.label>animal speech</AnimalSpeech.label>
+  <AnimalSpeech.description>The subject is capable of psychically overloading an animal's hormone production once per day, convincing them that they are a member of their species. This either snaps the animal out of a manhunting state or convinces them to join the colony.</AnimalSpeech.description>
+
+  <Empathy.label>empathy</Empathy.label>
+  <Empathy.description>The subject can cause a friendly target’s body to produce a massive amount of endorphins through the emission of hormones. The surge lasts for an entire day and can be done once a day.</Empathy.description>
+
+  <HealOthers.label>heal others</HealOthers.label>
+  <HealOthers.description>The subject can cause a friendly target’s body to rapidly regenerate from any wounds through the emission of hormones and a nutrient-rich mist.</HealOthers.description>
+
+  <GloryKill.label>glory kill</GloryKill.label>
+  <GloryKill.description>The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland. This surge in strength allows them to randomly attack a nearby enemy and tear them to pieces, however it is so exhausting the user needs to spend 5 days recovering.</GloryKill.description>
+
+  <ElectromagneticPulse.label>electro-magnetic pulse</ElectromagneticPulse.label>
+  <ElectromagneticPulse.description>The subject has developed a gland that is capable of absorbing surrounding energy and storing it. It also has a nodule protrusion that can be rapidly irritated to generate a burst of electromagnetic radiation.</ElectromagneticPulse.description>
+
+  <FireBreath.label>fire breath</FireBreath.label>
+  <FireBreath.description>The subject has developed a mucus gland in the back of their throat and sacs of chemfuel in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of flame that sets everything in its path alight.</FireBreath.description>
+
+  <IceBreath.label>ice breath</IceBreath.label>
+  <IceBreath.description>The subject has developed a mucus gland in the back of their throat and sacs of neutroamine in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of liquid that rapidly evaporates, slowing targets and inducing hypothermia.</IceBreath.description>
+
+  <LaserEyes.label>laser eyes</LaserEyes.label>
+  <LaserEyes.description>The subject is capable of psychically generating two temporary, microscopic skipgates linked to the core of a nearby neutron star. This energy is directed by whatever the subject is looking at, generating a powerful blast of energy over a medium distance.</LaserEyes.description>
+
+  <MatterPhasing.label>matter phasing</MatterPhasing.label>
+  <MatterPhasing.description>The subject is capable of psychically convincing their body that they are able to exist in the same space-time position as another object, specifically they can walk through walls. This can be extremely distressing on the body and can only be done for bursts of 10 seconds with a 60 second intermission.</MatterPhasing.description>
+
+  <ElectricityBlast.label>electricity blast</ElectricityBlast.label>
+  <ElectricityBlast.description>The subject is capable of producing a massive electrical current in a chain of targets by psychically stripping their bodies of electrons and then directing a focused lightning strike using their own body as a conductor. Very effective against robotic enemies but needs 60 seconds to recharge.</ElectricityBlast.description>
+
+  <SpeedBurst.label>speed burst</SpeedBurst.label>
+  <SpeedBurst.description>The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland.  This in turn allows them to strike twice as fast in melee combat, as well as quadruples their movement speed.</SpeedBurst.description>
+
+  <AcidSpitting.label>acid spitting</AcidSpitting.label>
+  <AcidSpitting.description>The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly.</AcidSpitting.description>
+
+  <Fireball.label>fireball</Fireball.label>
+  <Fireball.description>The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire.</Fireball.description>
+
+  <Metamorphosis.label>metamorphosis</Metamorphosis.label>
+  <Metamorphosis.description>The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be.</Metamorphosis.description>
+
+
+</LanguageData>
