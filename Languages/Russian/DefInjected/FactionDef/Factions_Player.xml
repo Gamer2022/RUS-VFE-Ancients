@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VFEA_NewVault.label>New Vault</VFEA_NewVault.label>
-  <VFEA_NewVault.description>A vault of ancient soldiers.</VFEA_NewVault.description>
-  <VFEA_NewVault.pawnsPlural>ancient soldiers</VFEA_NewVault.pawnsPlural>
-
-
+  <!-- EN: New Vault -->
+  <VFEA_NewVault.label>убежище</VFEA_NewVault.label>
+  <!-- EN: A vault of ancient soldiers. -->
+  <VFEA_NewVault.description>Ваше убежище солдат.</VFEA_NewVault.description>
+  <!-- EN: ancient soldier -->
+  <VFEA_NewVault.pawnSingular>древний солдат</VFEA_NewVault.pawnSingular>
+  <!-- EN: ancient soldiers -->
+  <VFEA_NewVault.pawnsPlural>древние солдаты</VFEA_NewVault.pawnsPlural>
 </LanguageData>
