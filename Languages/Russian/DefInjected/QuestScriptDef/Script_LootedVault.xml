@@ -1,24 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[asker_nameDef]'s [path] to the [ruins]</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.0>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.1>questName-&gt;[stash] in the [ruins]</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.1>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.2>path-&gt;Journey</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.2>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.3>path-&gt;Expedition</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.3>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.4>path-&gt;Adventure</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.4>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.5>ruins-&gt;Vault ruins</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.5>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.6>ruins-&gt;Ruined vault</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.6>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.7>ruins-&gt;Destroyed vault</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.7>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.8>ruins-&gt;Empty vault</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.8>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.9>stash-&gt;Stash</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.9>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.10>stash-&gt;Stockpile</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.10>
-  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.11>stash-&gt;Treasure</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.11>
-  <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)-&gt;We've intercepted messages about an abandoned vault ruins not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.0>
-  <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)-&gt;[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of abandoned vault ruins not far from us. It might still be possible to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.1>
-  <VFEM_OpportunitySite_LootedVault.root.nodes.3.name>asker</VFEM_OpportunitySite_LootedVault.root.nodes.3.name>
-  <VFEM_OpportunitySite_LootedVault.root.nodes.3.elseNode.nodes.0.name>askerIsNull</VFEM_OpportunitySite_LootedVault.root.nodes.3.elseNode.nodes.0.name>
-  <VFEM_OpportunitySite_LootedVault.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFEM_OpportunitySite_LootedVault.root.nodes.9.node.nodes.0.label>
-  <VFEM_OpportunitySite_LootedVault.root.nodes.9.node.nodes.0.text>Intercepted communications indicate the looted vault has been completely scavenged by others. The quest [resolvedQuestName] has expired.</VFEM_OpportunitySite_LootedVault.root.nodes.9.node.nodes.0.text>
-
-
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about an abandoned vault ruins not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li> 
+    <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of abandoned vault ruins not far from us. It might still be possible to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Нам удалось перехватить сообщение об заброшенному убежище неподалёку от [map_definite]. \n\nКажется, что [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракции [asker_faction_name], сообщает, что им удалось узнать координаты заброшенного убежища, которое расположено недалеко от нас. Возможно, там могло остаться что-то ценное.\n\n[asker_label] говорит, что [allSitePartsDescriptionsExceptFirst]</li>
+  </VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [path] to the [ruins]</li>
+    <li>questName->[stash] in the [ruins]</li>
+    <li>path->Journey</li>
+    <li>path->Expedition</li>
+    <li>path->Adventure</li>
+    <li>ruins->Vault ruins</li>
+    <li>ruins->Ruined vault</li>
+    <li>ruins->Destroyed vault</li>
+    <li>ruins->Empty vault</li>
+    <li>stash->Stash</li>
+    <li>stash->Stockpile</li>
+    <li>stash->Treasure</li>
+  -->
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[path] от [asker_nameDef] к [ruins]</li>
+    <li>questName->К [ruins] за [stash]</li>
+    <li>path->Путешествие</li>
+    <li>path->Экспедиция</li>
+    <li>path->Приключение</li>
+    <li>ruins->руинам убежища</li>
+    <li>ruins->разрушенному убежищу</li>
+    <li>ruins->уничтоженному убежищу</li>
+    <li>ruins->пустому убежищу</li>
+    <li>stash->ценностями</li>
+    <li>stash->ресурсами</li>
+    <li>stash->сокровищами</li>
+  </VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFEM_OpportunitySite_LootedVault.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</VFEM_OpportunitySite_LootedVault.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the looted vault has been completely scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <VFEM_OpportunitySite_LootedVault.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, убежище обчистил кто-то другой. Время, отведённое для задания [resolvedQuestName], истекло.</VFEM_OpportunitySite_LootedVault.LetterTextQuestExpired.slateRef>
 </LanguageData>
