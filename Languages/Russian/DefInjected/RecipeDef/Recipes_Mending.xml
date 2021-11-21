@@ -1,17 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: mend weapon -->
+  <VFEA_MendWeapon.label>починить оружие</VFEA_MendWeapon.label>
+  <!-- EN: todo -->
+  <VFEA_MendWeapon.description>Починить оружие на станции починки.</VFEA_MendWeapon.description>
+  <!-- EN: Mending weapon. -->
+  <VFEA_MendWeapon.jobString>Чинит оружие</VFEA_MendWeapon.jobString>
 
-  <VFEA_MendWeapon.label>mend weapon</VFEA_MendWeapon.label>
-  <VFEA_MendWeapon.description>todo</VFEA_MendWeapon.description>
-  <VFEA_MendWeapon.jobString>Mending weapon.</VFEA_MendWeapon.jobString>
+  <!-- EN: mend apparel -->
+  <VFEA_MendApparel.label>Починить одежду</VFEA_MendApparel.label>
+  <!-- EN: todo -->
+  <VFEA_MendApparel.description>Починить одежду на станции починки.</VFEA_MendApparel.description>
+  <!-- EN: Mending apparel. -->
+  <VFEA_MendApparel.jobString>Чинит одежду</VFEA_MendApparel.jobString>
 
-  <VFEA_MendApparel.label>mend apparel</VFEA_MendApparel.label>
-  <VFEA_MendApparel.description>todo</VFEA_MendApparel.description>
-  <VFEA_MendApparel.jobString>Mending apparel.</VFEA_MendApparel.jobString>
-
-  <VFEA_MendArmor.label>mend armor</VFEA_MendArmor.label>
-  <VFEA_MendArmor.description>todo</VFEA_MendArmor.description>
-  <VFEA_MendArmor.jobString>Mending armor.</VFEA_MendArmor.jobString>
-
-
+  <!-- EN: mend armor -->
+  <VFEA_MendArmor.label>починить броню</VFEA_MendArmor.label>
+  <!-- EN: todo -->
+  <VFEA_MendArmor.description>Починить броню на станции починки.</VFEA_MendArmor.description>
+  <!-- EN: Mending armor. -->
+  <VFEA_MendArmor.jobString>Чинит броню</VFEA_MendArmor.jobString>
 </LanguageData>
