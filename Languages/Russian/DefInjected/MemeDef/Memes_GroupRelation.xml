@@ -76,59 +76,56 @@
     <li>animistProphecy(tag=meme_Isolationist) ->[itIsSaid] that a new order will be created when one supreme ruler emerges from the shadows on a planet filled to the brim with blood and viscera.</li>
   -->
   <VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Isolationist)        ->Люди, жившие в [place_summary] [place_name] никак не могли прийти к согласию и бесконечно ссорились между собой. Это надоело [deity0_name] и [deity_spoke] [memberNamePlural] правыми во всём властителями всего живого.</li>
-    <li>episode(uses=1,tag=meme_Isolationist)  ->Так правые стали сражаться с неправыми, а [deity0_name] [deity_told] их: «Бейте их, везде и всюду. Они враги ваши и мира не будет пока живы неправые».</li>
+    <li>creation(tag=meme_Isolationist)        ->Люди, жившие в [place_summary] [place_name] никак не могли прийти к согласию и бесконечно ссорились между собой. Это надоело [deity0_name] и [deity_a_will] [memberNamePlural] правыми во всём властителями всего живого.</li>
+    <li>episode(uses=1,tag=meme_Isolationist)  ->Так правые стали сражаться с неправыми, а [deity0_name] [deity_a_accept] их: «Бейте их, везде и всюду. Они враги ваши и мира не будет пока живы неправые».</li>
     
-    <li>intro(tag=meme_Isolationist)           ->Люди, жившие в [place_summary] [place_name] поклонялись [deity0_name]. И [deity_bless] их достойными [memeConcept] и единственной фракцией, достойной возвышения.</li>
-    <li>conflict(tag=meme_Isolationist)        ->[foe_envious] [foeLeader] [foe_deny] стремления [deity0_name] и [foe_told] своим [foeSoldiers] сжечь все книги дотла. После чего [foeLeader] [foe_intro].</li>
-    <li>founderJoin(tag=meme_Isolationist)     ->[deity0_name] [deity_bless] [founder_simple] [founderName], известную как [place_job], дав [founder_objective] свои знания обо всём на свете. [founderName] [founder_get] свои знания в неразрушимые ядра данных.</li>
-    <li>victory(tag=meme_Isolationist)         ->[foeSoldiers] с упоением сжигали книги, радовались победе, но они проиграли: знания предков были в целости и сохранности благодаря усилиям [founderName].</li>
+    <li>intro(tag=meme_Isolationist)           ->Люди, жившие в [place_summary] [place_name] поклонялись [deity0_name]. И [deity_a_spot] их достойными [memeConcept] и единственной фракцией, достойной возвышения.</li>
+    <li>conflict(tag=meme_Isolationist)        ->Однажды [foeLeader] [foe_a_accept] закон, запрещавший [memberNamePlural] занимать руководящие должности в [place_name]. Это привело к тому, что [memberNamePlural] стали организовывать тайные общества, руководящие из тени.</li>
+    <li>founderJoin(tag=meme_Isolationist)     ->Всё закончилось в тот момент, когда великий воин по имени [founderName] [founder_a_rise] в руки [place_massWeapon] и [founder_a_destroy] [place_community]. [deity0_name], увидев [founder_possessive] безжалостность, [deity_a_saw] провести жизнь в изоляции и секретности.</li>
+    <li>victory(tag=meme_Isolationist)         ->В итоге, [founderName] [founder_a_destroy] [place_name] при помощи [place_massWeapon] и [founder_a_kill] [foeLeader]. Однако [founder_pronoun] не [founder_a_rule] где-то далеко от [place_name].</li>
     
-    <li>setup(tag=meme_Isolationist)           ->Наш основатель, [founderName] [founder_setup] величайшим писателем в галактике. [founderName_possessive] истории дали нам возможность посетить далёкие миры и потеряться в дивных фантазиях.</li>
-    <li>story(uses=1,tag=meme_Isolationist)    ->[founderName] [founder_teach] образец общества, где знания не теряются благодаря труду писателей.</li> 
+    <li>setup(tag=meme_Isolationist)           ->[founderName] [founder_a_build] великую армию, распространившую силу и славу на многие земли. Пленных не было: чужаки утопали в крови.</li>
+    <li>story(uses=1,tag=meme_Isolationist)    ->Капитуляции не принимались: все чужаки должны были сражаться до последней капли крови. Мир также никогда не был приемлем. Город, который не хотел сражаться и пытался сдаться, уничтожался со всеми жителями при помощи [place_massWeapon].</li> 
     
-    <li>lessonIntro(tag=meme_Isolationist)         ->Я [founder_spend] книги большую часть своей жизни и [founder_repeat] одну важную вещь:</li>
-    <li>lesson(tag=meme_Isolationist)              ->нет муки сильнее, чем нести в себе нерассказанную историю</li>
-    <li>lessonReinforcement(tag=meme_Isolationist) ->Если вы хотите прочитать книгу, которую ещё никто не написал, напишите её.</li>
+    <li>lessonIntro(tag=meme_Isolationist)         ->Однажды я [founder_a_look] на [foeLeader] и [foeLeader_possessive] жалких [foeSoldiers], когда стихли взрывы и [founder_a_rise] слово:</li>
+    <li>lesson(tag=meme_Isolationist)              ->«Прошли годы с тех пор, как мы, изолированные, но не сломленные, начали демонстрировать свою силу, нанося удары из тени...</li>
+    <li>lessonReinforcement(tag=meme_Isolationist) ->И не прекращаем делать это и сейчас, мы гордимся тем, что вонзаем силу своих сердец в сердца врагов.</li>
     
-    <li>archistBasis(tag=meme_Isolationist)    ->Арохотеки хранят знания обо всём. Они также уважают традиции писательства у людей.</li>
-    <li>archistFact(tag=meme_Isolationist)     ->Архотеки не хотели бы видеть необразованных дураков, способных лишь на простую работу примитивных роботов.</li> 
-    <li>archistProphecy(tag=meme_Isolationist) ->[inTheEnd] архотеки позволят достигнуть трансцендентности вместе с ними лишь достаточно культурным и образованным.</li>
+    <li>archistBasis(tag=meme_Isolationist)    ->Арохотеки были созданы лучшими из людей. Лишь прячась в тенях, мы станем достойными их.</li>
+    <li>archistFact(tag=meme_Isolationist)     ->Архотеки уничтожают врагов без колебаний. Именно так должны поступать и мы с врагами.</li> 
+    <li>archistProphecy(tag=meme_Isolationist) ->Архотеки не вербуют людей в свои ряды. Поэтому и мы не должны вербовать своих врагов.</li>
     
-    <li>animistFact(tag=meme_Isolationist)     ->Духи хотят, чтобы мы развивали наш интеллект, были культурными и образованными, ведь дремучесть оскорбительна для них.</li>
-    <li>animistProphecy(tag=meme_Isolationist)   ->[itIsSaid], что знания насекомых будут помещены на таблички из обсидиана, который не позволит времени стереть их.</li>
+    <li>animistFact(tag=meme_Isolationist)     ->Великие духи [spiritElement] решают, кому править. Они дают свою силу тем, кто способен убивать своих врагов.</li>
+    <li>animistProphecy(tag=meme_Isolationist)   ->[itIsSaid], что порядок в мире настанет тогда, когда сильнейший правитель выйдет из тени и сядет на трон из черепов в океане крови.</li>
     
-    <li>deity_spoke(deity0_gender==None)->оно волей своей объявило</li>
-    <li>deity_spoke(deity0_gender==Male)->он волей своей объявил</li>
-    <li>deity_spoke(deity0_gender==Female)->она волей своей объявила</li>
-    <li>deity_told(deity0_gender==None)->поддерживало</li>
-    <li>deity_told(deity0_gender==Male)->поддерживал</li>
-    <li>deity_told(deity0_gender==Female)->поддерживала</li>
-    <li>deity_bless(deity0_gender==None)->оно заметило это и посчитало</li>
-    <li>deity_bless(deity0_gender==Male)->он заметил это и посчитал</li>
-    <li>deity_bless(deity0_gender==Female)->она заметила это и посчитала</li>
+    <li>deity_a_will(deity0_gender==None)->оно волей своей объявило</li>
+    <li>deity_a_will(deity0_gender==Male)->он волей своей объявил</li>
+    <li>deity_a_will(deity0_gender==Female)->она волей своей объявила</li>
+    <li>deity_a_accept(deity0_gender==None)->поддерживало</li>
+    <li>deity_a_accept(deity0_gender==Male)->поддерживал</li>
+    <li>deity_a_accept(deity0_gender==Female)->поддерживала</li>
+    <li>deity_a_spot(deity0_gender==None)->оно заметило это и посчитало</li>
+    <li>deity_a_spot(deity0_gender==Male)->он заметил это и посчитал</li>
+    <li>deity_a_spot(deity0_gender==Female)->она заметила это и посчитала</li>
+    <li>deity_a_saw(deity0_gender==None)->наказало</li>
+    <li>deity_a_saw(deity0_gender==Male)->наказал</li>
+    <li>deity_a_saw(deity0_gender==Female)->наказала</li>
 
-    <li>foe_envious(foeLeader_gender==Male)->глупый</li>
-    <li>foe_envious(foeLeader_gender==Female)->глупая</li>
-    <li>foe_deny(foeLeader_gender==Male)->отринул</li>
-    <li>foe_deny(foeLeader_gender==Female)->отринула</li>
-    <li>foe_told(foeLeader_gender==Male)->приказал</li>
-    <li>foe_told(foeLeader_gender==Female)->приказала</li>
-    <li>foe_intro(foeLeader_gender==Male)->провозгласил себя воинственным анти-интеллектуалом</li>
-    <li>foe_intro(foeLeader_gender==Female)->провозгласила себя воинственной анти-интеллектуалкой</li>
+    <li>foe_a_accept(foeLeader_gender==Male)->принял</li>
+    <li>foe_a_accept(foeLeader_gender==Female)->приняла</li>
 
-    <li>founder_simple(founder_gender==Male)->простого</li>
-    <li>founder_simple(founder_gender==Female)->простую</li>
-    <li>founder_get(founder_gender==Male)->скопировал</li>
-    <li>founder_get(founder_gender==Female)->скопировала</li>
-    <li>founder_setup(founder_gender==Male)->стал</li>
-    <li>founder_setup(founder_gender==Female)->стала</li>
-    <li>founder_teach(founder_gender==Male)->показал</li>
-    <li>founder_teach(founder_gender==Female)->показала</li>
-    <li>founder_spend(founder_gender==Male)->писал</li>
-    <li>founder_spend(founder_gender==Female)->писала</li>
-    <li>founder_repeat(founder_gender==Male)->понял</li>
-    <li>founder_repeat(founder_gender==Female)->поняла</li>
+    <li>founder_a_rise(founder_gender==Male)->взял</li>
+    <li>founder_a_rise(founder_gender==Female)->взяла</li>
+    <li>founder_a_destroy(founder_gender==Male)->уничтожил</li>
+    <li>founder_a_destroy(founder_gender==Female)->уничтожила</li>
+    <li>founder_a_kill(founder_gender==Male)->убил</li>
+    <li>founder_a_kill(founder_gender==Female)->убила</li>
+    <li>founder_a_rule(founder_gender==Male)->не занял трон, а скрылся</li>
+    <li>founder_a_rule(founder_gender==Female)->не заняла трон, а скрылась</li>
+    <li>founder_a_build(founder_gender==Male)->создал</li>
+    <li>founder_a_build(founder_gender==Female)->создала</li>
+    <li>founder_a_look(founder_gender==Male)->посмотрел</li>
+    <li>founder_a_look(founder_gender==Female)->посмотрела</li>
   </VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: isolation -->

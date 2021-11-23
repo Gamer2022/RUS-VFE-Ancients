@@ -16,12 +16,12 @@
   <VFEA_PipelineJunction.description>В этом месте выходит на поверхность большой трубопровод химтоплива для соединения с чем-то. Его можно взломать и получить много химтоплива, но на это потребуется много времени и может привести к нашествию насекомых.</VFEA_PipelineJunction.description>
 
   <!-- EN: large locked door -->
-  <VFEA_LargeLockedDoor.label>large locked door</VFEA_LargeLockedDoor.label>
+  <VFEA_LargeLockedDoor.label>большая закрытая дверь</VFEA_LargeLockedDoor.label>
   <!-- EN: A large Vault door, often found in the entrance room. Due to self-preservation mechanism, the door is permanently locked and requires some degree of hacking to open. -->
-  <VFEA_LargeLockedDoor.description>A large Vault door, often found in the entrance room. Due to self-preservation mechanism, the door is permanently locked and requires some degree of hacking to open.</VFEA_LargeLockedDoor.description>
+  <VFEA_LargeLockedDoor.description>Большая дверь, защищающая вход в убежище. Она находится в состоянии аварийного закрытия из-за отсутствия питания. Взломать, чтобы открыть будет непросто.</VFEA_LargeLockedDoor.description>
 
   <!-- EN: ancient supply crate -->
   <VFEA_AncientSupplyCrate.label>древний контейнер снабжения</VFEA_AncientSupplyCrate.label>
   <!-- EN: An ancient crate with some building resources and components that deployed using a parachute. Hacking it takes a short time and may cause a raid, but it's bound to contain ancient technology. -->
-  <VFEA_AncientSupplyCrate.description>Древний контейнер с некоторыми ресурсами для строительства и компонентами, сброшенный с парашютом. Взломать его не сложно, но может сработать сигнализация и вызвать налёт враговHacking it takes a short time and may cause a raid, but it's bound to contain ancient technology.</VFEA_AncientSupplyCrate.description>
+  <VFEA_AncientSupplyCrate.description>Древний контейнер с некоторыми ресурсами для строительства и компонентами, сброшенный с парашютом. Взломать его не сложно, но может сработать сигнализация и вызвать налёт врагов. Однако там точно содержатся древние технологии.</VFEA_AncientSupplyCrate.description>
 </LanguageData>
