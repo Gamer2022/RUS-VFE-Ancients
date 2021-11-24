@@ -1,7 +1,7 @@
 ﻿##  Перевод серии модов [Vanilla Factions Expanded - Ancients](https://steamcommunity.com/sharedfiles/filedetails/?id=2654846754)
 
 ### Прогресс
-* Перевод: 38 из 59 файлов
+* Перевод: 41 из 59 файлов
 * Проверка обновлений текста: ожидается
 * Проверка перевода в игре: ожидается
 
