@@ -1,15 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: gene-tailoring pod -->
-  <VFEA_GeneTailoringPod.label>капсула генной коррекции</VFEA_GeneTailoringPod.label>
+  <VFEA_GeneTailoringPod.label>капсула биоподгонки</VFEA_GeneTailoringPod.label>
   <!-- EN: The primary element in the Ancients’ project of developing super soldiers, the Gene-tailoring Pod is the result of many dubious experiments in order to take on the Mechanoids. Soldiers are expected to lie in the pod and are then injected with single-use nanomachines designed to augment their physiology.\n\nThis is the main module responsible for creating super soldiers, but to improve the quality, efficiency and safety of the project, other equipment needs to be placed in the vicinity of the gene-tailoring pod. -->
-  <VFEA_GeneTailoringPod.description>Основной элемент проекта Древних по созданию суперсолдат, модуль генной коррекции - результат множества сомнительных экспериментов, направленных на борьбу с механоидами. Солдаты  должны лечь в капсулу, а затем им вводят одноразовые нанороботы, призванные улучшить их физиологию.\n\nЭто основной модуль, отвечающий за создание суперсолдат, но для повышения качества, эффективности и безопасности проекта, рядом с капсулой генной коррекции необходимо разместить дополнительное сопутствующее оборудование.</VFEA_GeneTailoringPod.description>
+  <VFEA_GeneTailoringPod.description>В основе проекта древних по созданию оружия против механоидов лежит капсула биоподгонки, позволяющая создавать суперсолдат. Итогом множества сомнительных экспериментов стал простой алгоритм: солдат ложится в капсулу, получает инъекцию наномашин и меняется в лучшую сторону.\n\nЭто главный модуль производства суперсолдат. Однако для повышения качества, эффективности и безопасности производства, разместить дополнительное оборудование.</VFEA_GeneTailoringPod.description>
 
   <!-- EN: super-nanite injector pump -->
-  <VFEA_SuperNaniteInjectorPump.label>инжекторный насос супернанитов</VFEA_SuperNaniteInjectorPump.label>
+  <VFEA_SuperNaniteInjectorPump.label>супернанитный инжектор</VFEA_SuperNaniteInjectorPump.label>
   <!-- EN: A small element that links to the Gene-tailoring Pod that allows it to store and extract a dose of super-nanites, effectively shaving a day off of the process. No more than 10 can be linked as at least 5 days are needed for the patient to process and accept the transition.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut one day from the injection time. -->
-  <VFEA_SuperNaniteInjectorPump.description>Небольшой элемент, подключаемый к капсуле генной коррекции, позволяющий хранить и извлекать дозу супернанитов, что позволяет сократить время процесса на один день. Можно подсоединить не более 10 штук, так как требуется минимум 5 дней для того, чтобы пациент переработал и принял генную трансформацию.\n\nЯвляясь дополнением к генной капсуле, это устройство должно быть размещено в непосредственной близости от нее, что сократит продолжительность процесса трансформации на один день.</VFEA_SuperNaniteInjectorPump.description>
+  <VFEA_SuperNaniteInjectorPump.description>Небольшой модуль для капсулы биоподгонки, хранящий порцию супернанитов. Его работа позволяет сократить процесс преобразования на день. Однако он не может стать быстрее 5 дней, поэтому максимальное количество подключённых инжекторов равняется 10.\n\nЭто дополнительный модуль для капсулы биоподгонки. Его необходимо расположить рядом с ней для сокращения преобразования на день.</VFEA_SuperNaniteInjectorPump.description>
 
   <!-- EN: super-nanite dialyzer -->
   <VFEA_SuperNaniteDialyzer.label>диализатор супернанитов</VFEA_SuperNaniteDialyzer.label>
